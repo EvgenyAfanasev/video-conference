@@ -1,0 +1,6 @@
+.vscode/
+target/
+.metals/
+.bloop/
+metals.sbt
+*.http
